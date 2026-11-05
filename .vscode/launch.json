@@ -1,0 +1,106 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SimpleChat2 Client",
+            "request": "launch",
+            "mainClass": "simplechat2.ClientConsole",
+            "args": "Tuan localhost"
+        },
+        {
+            "type": "java",
+            "name": "SimpleChat2 Client - Lan",
+            "request": "launch",
+            "mainClass": "simplechat2.ClientConsole",
+            "args": "Lan localhost"
+        },
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ClientConsole",
+            "request": "launch",
+            "mainClass": "ClientConsole",
+            "projectName": "Lloseng-master_a469842a"
+        },
+        {
+            "type": "java",
+            "name": "EchoServer",
+            "request": "launch",
+            "mainClass": "EchoServer",
+            "projectName": "Lloseng-master_a469842a"
+        },
+        {
+            "type": "java",
+            "name": "PointCPTest",
+            "request": "launch",
+            "mainClass": "PointCPTest",
+            "projectName": "Lloseng-master_a469842a"
+        },
+        {
+            "type": "java",
+            "name": "PostalTest",
+            "request": "launch",
+            "mainClass": "PostalTest",
+            "projectName": "Lloseng-master_a469842a"
+        },
+        {
+            "type": "java",
+            "name": "ThreadExample",
+            "request": "launch",
+            "mainClass": "ThreadExample",
+            "projectName": "Lloseng-master_a469842a"
+        },
+        {
+            "type": "java",
+            "name": "ClientFrame",
+            "request": "launch",
+            "mainClass": "ocsftester.ClientFrame",
+            "projectName": "Lloseng-master_a469842a"
+        },
+        {
+            "type": "java",
+            "name": "ClientsFrame",
+            "request": "launch",
+            "mainClass": "ocsftester.ClientsFrame",
+            "projectName": "Lloseng-master_a469842a"
+        },
+        {
+            "type": "java",
+            "name": "ServerDriver",
+            "request": "launch",
+            "mainClass": "ocsftester.ServerDriver",
+            "projectName": "Lloseng-master_a469842a"
+        },
+        {
+            "type": "java",
+            "name": "ServerFrame",
+            "request": "launch",
+            "mainClass": "ocsftester.ServerFrame",
+            "projectName": "Lloseng-master_a469842a"
+        },
+        {
+            "type": "java",
+            "name": "ClientConsole(1)",
+            "request": "launch",
+            "mainClass": "simplechat2.ClientConsole",
+            "projectName": "Lloseng-master_a469842a"
+        },
+        {
+            "type": "java",
+            "name": "EchoServer(1)",
+            "request": "launch",
+            "mainClass": "simplechat2.EchoServer",
+            "projectName": "Lloseng-master_a469842a"
+        }
+    ]
+}
